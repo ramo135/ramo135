@@ -16,3 +16,6 @@
 - Microsoft Excel and PowerPoint
 - Python
 - Tableau
+
+### Tableau Project
+[PS_vs_Xbox](https://public.tableau.com/views/PlayStationvs_Xbox/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
