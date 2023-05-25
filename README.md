@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ramo135/ramo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My name is Omar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a data analyst who graduated from Thinkful Academy with a certification in Data Analytics 
+- I have experience in collecting , cleaning, visualizing, and analyzing data
+- Hardworker and always eager to learn more
+
+
+
+[LinkedIn](https://www.linkedin.com/in/omar-medrano-05a90a272)
+
+## Languages and Tools
+- SQL
+- Microsoft Excel and PowerPoint
+- Python
+- Tableau
