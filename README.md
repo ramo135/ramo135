@@ -18,4 +18,4 @@
 - Tableau
 
 ### Tableau Project
-[PlaySation_vs_Xbox](https://public.tableau.com/views/PlayStationvs_Xbox/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[PlayStation_vs_Xbox](https://public.tableau.com/views/PlayStationvs_Xbox/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
