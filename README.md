@@ -8,7 +8,7 @@
 - Hardworker and always eager to learn more
 
 
-
+# How to reach out:
 [LinkedIn](https://www.linkedin.com/in/omar-medrano-05a90a272)
 
 ## Languages and Tools
