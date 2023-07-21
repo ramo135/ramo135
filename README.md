@@ -20,7 +20,7 @@ I'm eager to connect with fellow data enthusiasts and industry professionals. Le
 
 ## 🌐 LinkedIn
 
-🌐 [[LinkedIn Profile URL]](https://www.linkedin.com/in/omar-medrano-05a90a272)
+🌐 [LinkedIn](https://www.linkedin.com/in/omar-medrano-05a90a272)
 
 ## #DataAnalysis #Python #SQL #Tableau #DataVisualization #DataDrivenDecisionMaking
 
